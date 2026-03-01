@@ -4,8 +4,6 @@ Dynamic Pathfinding Agent
 Implements GBFS and A* with Manhattan/Euclidean heuristics on a Pygame grid.
 Supports dynamic obstacle spawning and real-time re-planning.
 
-Requirements:
-    pip install pygame
 
 Run:
     python pathfinding_agent.py
